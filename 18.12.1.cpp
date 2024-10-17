@@ -1,5 +1,5 @@
 ﻿// 18.12.1.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
-//
+ 
 #include <filesystem>
 #include <iostream>
 #include "User.h"
